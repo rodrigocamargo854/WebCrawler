@@ -1,0 +1,13 @@
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.deps.json
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.runtimeconfig.json
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.runtimeconfig.dev.json
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.dll
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/WebCrawler.pdb
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.csprojAssemblyReference.cache
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.AssemblyInfoInputs.cache
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.AssemblyInfo.cs
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.csproj.CoreCompileInputs.cache
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.dll
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.pdb
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.genruntimeconfig.cache

@@ -27,24 +27,24 @@ namespace WebCrawler
                 html = wc.DownloadString(url);
             }
 
-            html = html.Replace("<span class=\"num_sorteio\"><ul>",""); //retira o span
-            html = html.Replace("</ul></span>",""); //retira o span
-            html = html.Replace("</li>",""); //retira o span
+            // html = html.Replace("<span class=\"num_sorteio\"><ul>",""); //retira o span
+            // html = html.Replace("</ul></span>",""); //retira o span
+            // html = html.Replace("</li>",""); //retira o span
 
-            string[] vet = Regex.Split(html, "<li>");
-            List<int> resultado = new List<int>();
+            // string[] vet = Regex.Split(html, "<li>");
+            // List<int> resultado = new List<int>();
 
-            resultado.Add(int.Parse(vet[1]));
-            resultado.Add(int.Parse(vet[2]));
-            resultado.Add(int.Parse(vet[3]));
-            resultado.Add(int.Parse(vet[4]));
-            resultado.Add(int.Parse(vet[5]));
-            resultado.Add(int.Parse(vet[6].Substring(0,2)));
+            // resultado.Add(int.Parse(vet[1]));
+            // resultado.Add(int.Parse(vet[2]));
+            // resultado.Add(int.Parse(vet[3]));
+            // resultado.Add(int.Parse(vet[4]));
+            // resultado.Add(int.Parse(vet[5]));
+            // resultado.Add(int.Parse(vet[6].Substring(0,2)));
 
-            foreach (var item in resultado)
-            {
-                Console.WriteLine(item);
-            }
+            // foreach (var item in resultado)
+            // {
+            //     Console.WriteLine(item);
+            // }
 
         
         }   
