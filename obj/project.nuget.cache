@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g+5p8DV53PvxiwnG3ZihKbTf2d9l3ksuPTyzexorpt4Xxv+8FIhhA2MhmONMUO7xRv/zk073zm9Ow18lUk7djw==",
+  "dgSpecHash": "FXr8u5k/+/RnYF0z3wmas+WS18WWdEtr77fjpk88pg1bZeb35uU89W7e2QhAkENPIJVyUffTxLvXmmxHRKeWXA==",
   "success": true,
   "projectFilePath": "/media/rodrigo/Dados/dev/WebCrawler/WebCrawler.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rodrigo/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,5 @@
 /media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.dll
 /media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.pdb
 /media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.genruntimeconfig.cache
+/media/rodrigo/Dados/dev/WebCrawler/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/rodrigo/Dados/dev/WebCrawler/obj/Debug/netcoreapp3.1/WebCrawler.csproj.CopyComplete
